@@ -5,11 +5,9 @@
   "main": "./js/main.js",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^5.10.0",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-react": "^7.11.1"
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
